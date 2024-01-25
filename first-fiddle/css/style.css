@@ -1,0 +1,297 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img123 {
+    width: 80%;
+}
+
+/* NAV BAR */
+
+.weblogo {
+    width: 65px;
+}
+
+.navbar {
+    background: #00000082 !important;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+}
+
+.navbar-nav li a {
+    color: #fff !important;
+    font-weight: lighter;
+    font-size: 20px;
+}
+
+.navbar-nav li a:hover {
+    background-color: #ffc107;
+}
+
+.moblogo{
+    display: none;
+}
+
+/* container css start */
+
+.a {
+    padding-top: 20px;
+    text-transform: capitalize;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.b {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+
+
+
+.c {
+
+    /* background: url('https://pn-paul.netlify.app/image/img\ background.jpg"'); */
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url('../image/img-1.jpg');
+    /* background-size: cover; */
+    background-position: center;
+
+    width: 100%;
+    margin-top: 30px;
+}
+
+.cc {
+    background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url(' https://pn-paul.netlify.app/image/ffback2.png');
+    width: 100%;
+
+
+}
+
+.d {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+
+.e {
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+
+footer {
+    background: #111215;
+}
+
+.f {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.g {
+    line-height: 30px;
+    word-spacing: 1px;
+    font-size: 18px;
+
+}
+
+
+/* ==== about css ==== */
+
+.bb {
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 10px;
+    text-align: justify;
+}
+
+
+.about-c {
+
+    background: url('../image/img-1.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.0)), url('https://pn-paul.netlify.app/image/gamebanner.jpg');
+    /* background-size: cover; */
+    background-position: center;
+    width: 100%;
+    height: 400px;
+    margin-top: 30px;
+}
+
+.ccc {
+    background-image: url('https://pn-paul.netlify.app/image/ourimage.jpg');
+    width: 100%;
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+}
+
+.ex {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.our {
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+/* BRAND CSS */
+
+.cccc {
+    background-image: url('https://pn-paul.netlify.app/image/brands.jpg');
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+
+/* OUR TEAM CSS */
+.ccccc {
+    background-image: url(' https://pn-paul.netlify.app/image/new-our-team.jpg');
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+
+
+.photo1 {
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.photo2 {
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.photo3 {
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.photo4 {
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.photo5 {
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+
+
+/* press page css */
+
+
+.press1 {
+    background-image: url('https://pn-paul.netlify.app/image/press-new-1.jpg');
+    width: 100%;
+    height: 630px;
+    background-position: center;
+    background-size: cover;
+}
+
+.go {
+    line-height: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 20px;
+    font-weight: lighter;
+    padding-bottom: 12px;
+}
+
+.read {
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    font-weight: lighter;
+}
+
+.geeks {
+    transition: 1s all ease-in-out;
+    border-radius: 10px;
+}
+
+.geeks:hover {
+    transform: scale(1.1);
+}
+
+/* contact css */
+
+.contact1 {
+    background-image: url('https://pn-paul.netlify.app/image/CONTACT-US.jpg');
+    width: 100%;
+    height: 620px;
+    background-position: center;
+    background-size: cover;
+}
+
+.send {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+}
+
+/* career css */
+
+.career1 {
+
+    background-image: url('  https://pn-paul.netlify.app/image/new-careers-1.jpg');
+    width: 100%;
+    height: 620px;
+    background-position: center;
+    background-size: cover;
+
+}
+
+
+
+/* media query  */
+
+@media(max-width:768px) {
+    .img123 {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .weblogo{
+        display: none;
+      }
+      .moblogo{
+        display: block;
+      }
+      .navbar{
+        background: #fcb21c!important;
+      }
+
+    .foot {
+        display: none;
+    }
+}
